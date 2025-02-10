@@ -144,6 +144,9 @@ Thanks go to all our backers! [[Become a backer](https://opencollective.com/reac
     <img src="https://opencollective.com/react-hook-form/backers.svg?width=950" />
 </a>
 
+
+
+
 ### Contributors
 
 Thanks go to these wonderful people! [[Become a contributor](CONTRIBUTING.md)].
